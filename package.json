@@ -1,0 +1,16 @@
+{
+  "name": "@razat249/how-to-npm",
+  "version": "1.0.1",
+  "description": "Hay guys!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "razat",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  },
+  "devDependencies": {},
+  "repository": "https://www.github.com/razat249/cwitter"
+}
